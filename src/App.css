@@ -3,14 +3,11 @@
     margin: 0;
     box-sizing: border-box;
 }
-.Form {
+.container {
     display: flex;
     justify-content: center;
 }
-/* form {
-    width: 100%;
-} */
-.Form .content {
+.container .content {
     width: 500px;
 }
 h1 {
